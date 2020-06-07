@@ -1,6 +1,6 @@
 {
   "name": "workshop-js",
-  "version": "0.3.0",
+  "version": "1.0.0",
   "description": "A basic JavaScript project",
   "main": "index.js",
   "scripts": {
